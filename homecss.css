@@ -1,0 +1,32 @@
+.container {
+    position: relative;
+    width: 100%;
+
+  }
+  .centered {
+    position: absolute;
+    font-size: 40px;
+    text-align: center;
+    font-family:cursive;
+    top: 40%;
+    bottom: 50%;
+    left: 10%;
+    text-shadow: 4px,4px,-3px;
+    color: darkcyan;
+  }
+  .img-top
+  {
+     height: 110px;
+     width: 100%;
+     background-position: center; 
+     left: 5px;
+     right: 5px;
+  }
+#img-body
+{
+  width: 50%;
+  height: 50%;
+  background-position: center;
+  bottom: 0%;
+  margin-left: 300px;
+}
